@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bitcoin Design Community//ical-generator//EN
+NAME:Bitcoin Design Community Calls & Events
+X-WR-CALNAME:Bitcoin Design Community Calls & Events
+TIMEZONE-ID:US/Pacific
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:734005853@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20201109T160000Z
+DTSTART:20201109T160000Z
+DTEND:20201109T170000Z
+SUMMARY:Design Review Call #5
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /41
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/41\">https://github.com/BitcoinDesign/Meta/iss
+ ues/41</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/41
+END:VEVENT
+BEGIN:VEVENT
+UID:732120216@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20201106T160000Z
+DTSTART:20201106T160000Z
+DTEND:20201106T170000Z
+SUMMARY:Bitcoin Core Design Call #6
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /40
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/40\">https://github.com/BitcoinDesign/Meta/iss
+ ues/40</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/40
+END:VEVENT
+END:VCALENDAR
